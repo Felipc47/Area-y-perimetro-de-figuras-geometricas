@@ -1,2 +1,2 @@
-# Area y perimetro de figuras geométricas
+# Área y perímetro de figuras geométricas
 Proyecto desarrollado con Javascript
